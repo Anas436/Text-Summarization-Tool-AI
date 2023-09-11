@@ -71,5 +71,5 @@
 
 ## Resource
 - Omdena Local chapter Link [here](https://github.com/OmdenaAI/kolkata-india-text-summarization)
-- Omdena Github Link [here](https://github.com/OmdenaAI/kolkata-india-text-summarization)
+- Omdena Github Link [here](https://omdena.com/chapter-challenges/text-sumarization/)
 
