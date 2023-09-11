@@ -69,3 +69,7 @@
 - Results           - Folder to store final analysis modelling results for the project.
 
 
+## Resource
+- Omdena Local chapter Link [here](https://omdena.com/chapter-challenges/text-sumarization/)https://omdena.com/chapter-challenges/text-sumarization/)
+- Omdena Github Link [here](https://github.com/OmdenaAI/kolkata-india-text-summarization)
+
